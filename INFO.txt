@@ -1,0 +1,4 @@
+#export FLASK_APP="hello.py"
+# or which uses files from template folder
+export FLASK_APP="application.py"
+flask run
